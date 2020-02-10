@@ -1,11 +1,14 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "Pedro Cesar",
-        "email": "pedrocs378@gmail.com"
-    }, {
-        "id": 2,
-        "name": "Maria Julia da Silva",
-        "email": "mjds@empresa.com"
-    }]
+  "users": [
+    {
+      "name": "Carlos da Silva Machado",
+      "email": "carlosdasilva@hotmail.com",
+      "id": 2
+    },
+    {
+      "name": "Fulano",
+      "email": "fulano@gmail.com",
+      "id": 3
+    }
+  ]
 }
