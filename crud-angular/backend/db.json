@@ -19,6 +19,21 @@
       "name": "Geladeira",
       "price": 1254.99,
       "id": 4
+    },
+    {
+      "name": "Teste formulario",
+      "price": "9.99",
+      "id": 5
+    },
+    {
+      "name": "Geladeira",
+      "price": "1299.90",
+      "id": 6
+    },
+    {
+      "name": "Lápis",
+      "price": "5.50",
+      "id": 7
     }
   ]
 }

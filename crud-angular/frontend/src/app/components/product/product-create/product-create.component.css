@@ -1,0 +1,14 @@
+form {
+    margin-top: 10px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin-top: 20px;
+}
+
+button + button {
+    margin-left: 15px;
+}
