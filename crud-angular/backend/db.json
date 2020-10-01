@@ -11,19 +11,9 @@
       "price": 12000.89
     },
     {
-      "id": 3,
-      "name": "Samsung S20+",
-      "price": 5000.89
-    },
-    {
       "name": "Geladeira",
-      "price": 1254.99,
+      "price": "1589.90",
       "id": 4
-    },
-    {
-      "name": "Teste formulario",
-      "price": "9.99",
-      "id": 5
     },
     {
       "name": "Geladeira",
@@ -32,8 +22,13 @@
     },
     {
       "name": "Lápis",
-      "price": "5.50",
+      "price": "2.59",
       "id": 7
+    },
+    {
+      "name": "Novo produto",
+      "price": "29.90",
+      "id": 8
     }
   ]
 }
